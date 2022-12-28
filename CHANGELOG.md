@@ -1,5 +1,13 @@
 # Change log
 
+## v1.9.0
+
+- Adds possibility to customise HTTP and tunnel port (Issue #170)
+
+## v1.8.0
+
+- Add a possibility to specify network adapter (Issue #15)
+
 ## v1.7.1
 
 - Update badges in README to use new CICD server
